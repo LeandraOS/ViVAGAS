@@ -1,9 +1,9 @@
 
 [submodule "ViVAGASFrontend"]
 	path = ViVAGASFrontend
-    branch = main
+    	branch = main
 	url = https://github.com/LeandraOS/ViVAGASFrontend
 [submodule "ViVAGASBackend"]
 	path = ViVAGASBackend
-    branch = main
+    	branch = main
 	url = https://github.com/LeandraOS/ViVAGASBackend
